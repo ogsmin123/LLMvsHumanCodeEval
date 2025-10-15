@@ -1,4 +1,4 @@
-## AI vs Human Code Evaluation (Python/Java)
+## AI vs Human Code Evaluation (Python)
 
 Empirical comparison of pre-LLM human code vs GPT-4o code across algorithmic problems.
 This repo contains ready-to-run scripts to compute complexity, coupling, comment quality, rewrite extent, and knowledge-preserving indicators—plus figures and a LaTeX paper draft.
