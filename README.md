@@ -75,8 +75,8 @@ Replace the notebook with a valid .ipynb (we included a working analyze_results.
 ### 5) Repo Layout (key paths)
 ```
 data/
-  human/             # human solutions (.py/.java)
-  llm/               # LLM solutions (.py/.java)
+  human/             # human solutions (.py)
+  llm/               # LLM solutions (.py)
 utils/
   metrics.py         # lizard/radon API-based metrics
   comments.py
