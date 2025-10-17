@@ -13,3 +13,5 @@ gitpython
 matplotlib
 textstat
 kaggle
+jupyter
+notebook
